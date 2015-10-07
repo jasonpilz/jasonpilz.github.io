@@ -65,7 +65,12 @@ body {
 .masthead-fname {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: blue;
+  font-family: 'Helvetica Neue';
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
 }
 
 .masthead-nav > li {
