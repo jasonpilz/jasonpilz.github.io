@@ -62,9 +62,10 @@ body {
 /*
  * Header
  */
-.masthead-brand {
+.masthead-fname {
   margin-top: 10px;
   margin-bottom: 10px;
+  color: blue;
 }
 
 .masthead-nav > li {
@@ -96,7 +97,7 @@ body {
 }
 
 @media (min-width: 768px) {
-  .masthead-brand {
+  .masthead-fname {
     float: left;
   }
   .masthead-nav {
