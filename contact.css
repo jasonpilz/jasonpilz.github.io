@@ -115,7 +115,7 @@ body {
 /* color the logos */
 .logos > a:hover,
 .logos > a:focus {
-  fill: rgb(37, 121, 217)
+  color: rgb(37, 121, 217);
 }
 
 @media (min-width: 768px) {
