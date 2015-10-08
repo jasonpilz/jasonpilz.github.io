@@ -137,6 +137,10 @@ body {
   font-weight: bold;
 }
 
+.logos {
+  horizontal-align: middle;
+}
+
 
 /*
  * Footer
