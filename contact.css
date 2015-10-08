@@ -112,6 +112,12 @@ body {
   border-bottom-color: #fff;
 }
 
+/* color the logos */
+.logos > a:hover,
+.logos > a:focus {
+  color: rgb(37, 121, 217)
+}
+
 @media (min-width: 768px) {
   .masthead-fname {
     float: left;
